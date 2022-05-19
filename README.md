@@ -9,7 +9,7 @@
 A) Tackle point 2 from  https://tripleseat.com/blog/9-tips-for-marketing-your-craft-brewery <br>
 Run this script data_analysis.py to output the context into output.csv <br>
 
-B) Location and distribution of highest shares in 2021 beer importing business are listed below
+B) Location and highest distribution shares in 2021 for beer importing business are listed below.
 ![map](https://github.com/ddgae2/web_scrape/blob/branch3/beer_distrubtion.png) <br>
 B1) Other distribution business can be analyzed in https://tripleseat.com/blog/9-tips-for-marketing-your-craft-brewery/
 
