@@ -14,6 +14,7 @@ B) Location and highest distribution shares in 2021 for beer importing business 
 B1) Other distribution business can be analyzed in https://tripleseat.com/blog/9-tips-for-marketing-your-craft-brewery/
 
 C) Use plotly.com to visualize the beer types from this beer distribution center <br>
+![consumer](https://github.com/ddgae2/web_scrape/blob/branch3/consumer.png) <br>
 loaded as https://plotly.com. <br>
 
 D) Finally look through their operations on these holidays. <br>
