@@ -6,12 +6,12 @@
 2. This is a tool for looking through a website to gather words, HTTPS as a CSV output. 
 
 ## Results
-A) Tackle point 2 from  https://www.nbwa.org/resources/industry-fast-facts <br>
+A) Tackle point 2 from  https://tripleseat.com/blog/9-tips-for-marketing-your-craft-brewery <br>
 Run this script data_analysis.py to output the context into output.csv <br>
 
 B) Location and distribution of highest shares in 2021 beer importing business are listed below
 ![map](https://github.com/ddgae2/web_scrape/blob/branch3/beer_distrubtion.png) <br>
-B1) Other distribution business can be analyzed in https://www.nbwa.org/resources/industry-fast-facts
+B1) Other distribution business can be analyzed in https://tripleseat.com/blog/9-tips-for-marketing-your-craft-brewery/
 
 C) Use plotly.com to visualize the beer types from this beer distribution center <br>
 loaded as https://plotly.com. <br>
