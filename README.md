@@ -10,7 +10,7 @@ A) Tackle point 2 from  https://www.nbwa.org/resources/industry-fast-facts <br>
 Run this script to output the context into output.csv <br>
 
 B) Location and distribution of highest shares in 2021 beer importing busines are listed below
-![map](https://github.com/ddgae2/web_scrape/blob/main/beer_distribution.png) <br>
+![map](https://github.com/ddgae2/web_scrape/blob/branch3/beer_distrubtion.png) <br>
 B1) Other distribution business can be analyzed in https://www.nbwa.org/resources/industry-fast-facts
 
 C) Use plotly.com to visualize the beer types from this beer distribution center <br>
