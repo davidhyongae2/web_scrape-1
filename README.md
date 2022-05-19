@@ -1,6 +1,6 @@
 ## Parsing of HTTPS, facts about the business.
 
-1. Manually curate and scrape HTTPS, maps, images from a website using Python
+1. Manually curate and scrape HTTPS, maps, images from a website using Python <br>
    need more linguistic parsing knowledge to improve the context.
 
 2. This is a tool for looking through a website to gather words, HTTPS as a CSV output. 
