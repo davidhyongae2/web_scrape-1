@@ -1,4 +1,4 @@
-## Parsing of HTTPS, facts for business, of images
+## Parsing of HTTPS, facts about the business.
 
 1. How to manually curate and scrape HTTPS, maps, images from a website using Python
    need more linguistic parsing knowledge to improve the context.
