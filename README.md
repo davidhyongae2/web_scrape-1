@@ -31,5 +31,5 @@ D) Finally look through their operations on these holidays. <br>
 ## python, pandas, JSON, beautiful soup
 
 ## Author
-David H. Gae
+<strike>David H. Gae</strike>
 
