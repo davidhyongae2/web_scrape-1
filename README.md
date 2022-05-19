@@ -16,7 +16,7 @@ B1) Other distribution business can be analyzed in https://tripleseat.com/blog/9
 C) Use plotly.com to visualize the beer types from this beer distribution center <br>
 loaded as https://plotly.com. <br>
 
-D) Finally look through these websites and determine if any of these locations that operates during these holidays. <br>
+D) Finally look through their operations on these holidays. <br>
 		Independence Day (4th of July) <br>
 		Memorial Day <br>
 		Labor Day  <br>
